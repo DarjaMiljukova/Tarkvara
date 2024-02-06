@@ -1,13 +1,13 @@
 ***Lisa esimese faili juurde järgmised tõlked:
 
 критический путь проекта - projekti kriitiline tee
-виды рисков в проекте - projekti riskide liigid
-аутсортсинг - allhankeid
+виды рисков в проекте - projekti riskideliigid
+аутсортсинг - allhanke
 краудсортсинг
-ИТ аудит - IT-audit
+ИТ аудит - IT-audiit
 ERP системы - ERP süsteemid
 ROI для оценки проектов - ROI projekti hindamiseks
 Tacit
 Knowledge Managment System - Teadmiste haldamise süsteem
 cистемы управления базами данных – какие знаете? MySQL, Microsoft SQL Server, Oracle
-Project Managment Tool - Projektijuhtimise vahend
+Project Managment Tool - Projektihaldamise tarkvara
