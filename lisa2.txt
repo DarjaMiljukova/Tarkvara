@@ -11,3 +11,22 @@ Tacit
 Knowledge Managment System - Teadmiste haldamise süsteem
 cистемы управления базами данных – какие знаете? MySQL, Microsoft SQL Server, Oracle
 Project Managment Tool - Projektihaldamise tarkvara
+
+mudel - модель
+kasutusmalliskeem - kasutusloomskeem - диаграмма прецедента
+tegevusskeem - диаграмма активности/деятельности
+jadaskeem - диаграмма последовательностей
+klassis skeem - диаграмма классов
+koostööskeem - диаграмма взаимодействия
+andmebaasiskeem - диаграмма баз данных
+olem - сущность
+seos - связь
+muster - узор / схема / шаблон
+mustand - черновик
+punkt - точка
+romb - ромб
+ristkülik - прямоугольник
+nool - стрелка
+joon - линия
+algussõlm - начальный узел
+ovaal - овал
